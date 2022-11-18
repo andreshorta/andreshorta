@@ -5,7 +5,7 @@
 
 - 💬 Preguntame sobre **html, css, javascript y java**
 
-- 📫 Como llegar a mi**andreshorta98@gmail.com**
+- 📫 Como llegar a mi **andreshorta98@gmail.com**
 
 <h3 align="left"> Conectate conmigo: h3>
 <p align="left">
