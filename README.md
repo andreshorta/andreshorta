@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Andres Horta</h1>
-<h3 align="center">Soy un frontend developer apasionado</h3>
+<h3 align="center">Java Develope</h3>
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://andreshorta.github.io/mi-portafolio/](https://andreshorta.github.io/mi-portafolio/)
 
-- 💬 Preguntame sobre **html, css, javascript y java**
+- 💬 Preguntame sobre **Java, SpringBoot, javascript, html, css, **
 
 - 📫 Como llegar a mi **andreshorta98@gmail.com**
 
