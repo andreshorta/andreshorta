@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, me llamo Andres Horta</h1>
-<h3 align="center">Java Develope</h3>
+<h3 align="center">Java Developer</h3>
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://andreshorta.github.io/mi-portafolio/](https://andreshorta.github.io/mi-portafolio/)
 
 - 💬 Preguntame sobre **Java, SpringBoot, javascript, html, css, **
 
-- 📫 Como llegar a mi **andreshorta98@gmail.com**
+- 📫 Como llegar a mi **https://www.linkedin.com/in/andreshorta/ o andreshorta98@gmail.com **
 
 <h3 align="left"> Conectate conmigo: </h3>
 <p align="left">
